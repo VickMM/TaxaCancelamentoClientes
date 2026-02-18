@@ -17,6 +17,7 @@ NumPy
 
 Plotly.express
 
+
 🔎 Principais Análises
 
 Comparação entre clientes ativos e cancelados
@@ -27,6 +28,7 @@ Avaliação do tipo de plano
 
 Identificação de padrões comportamentais
 
+
 📌 Insights
 
 Clientes com contrato mensal apresentaram maior taxa de cancelamento
@@ -34,6 +36,7 @@ Clientes com contrato mensal apresentaram maior taxa de cancelamento
 Cancelamentos são mais frequentes após 4 ligações ao callcenter
 
 Clientes que atrasam mais de 20 dias no pagamento cancelam
+
 
 💡 Recomendações
 
